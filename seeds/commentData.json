@@ -1,0 +1,42 @@
+[
+    {
+        content: "Truth",
+        user_id: 2,
+        blog_id: 1
+    },
+    {
+        content: "Agreed",
+        user_id: 4,
+        blog_id: 1
+    },
+    {
+        content: "Yes",
+        user_id: 1,
+        blog_id: 2
+    },
+    {
+        content: "Duh",
+        user_id: 4,
+        blog_id: 2
+    },
+    {
+        content: "Not Me",
+        user_id: 3,
+        blog_id: 3
+    },
+    {
+        content: "It's bad.",
+        user_id: 1,
+        blog_id: 3
+    },
+    {
+        content: "See my blog!",
+        user_id: 2,
+        blog_id: 4
+    },
+    {
+        content: "I think so.",
+        user_id: 3,
+        blog_id: 4
+    }
+]

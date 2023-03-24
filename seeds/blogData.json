@@ -1,0 +1,22 @@
+[
+    {
+        title: "Why Dogs are better than Cats!",
+        content: "It's facts.",
+        user_id: 1
+    },
+    {
+        title: "Are Cats a thing of the past?",
+        content: "Im a cat and this house can only have 1 cat.",
+        user_id: 2
+    },
+    {
+        title: "Do people really like Cats?",
+        content: "Who wants a litterbox in their house?",
+        user_id: 3
+    },
+    {
+        title: "The future is Dog!",
+        content: "A dog is the new child.",
+        user_id: 4
+    }
+]

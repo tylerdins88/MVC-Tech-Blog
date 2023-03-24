@@ -1,0 +1,22 @@
+[
+    {
+        user_name: "DogFan1",
+        email: "dog@fan1.com",
+        password: "Hello123"
+    },
+    {
+        user_name: "DogFan2",
+        email: "dog@fan2.com",
+        password: "Hello123"
+    },
+    {
+        user_name: "DogFan3",
+        email: "dog@fan3.com",
+        password: "Hello123"
+    },
+    {
+        user_name: "DogFan4",
+        email: "dog@fan4.com",
+        password: "Hello123"
+    }
+]
