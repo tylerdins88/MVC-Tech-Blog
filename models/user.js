@@ -43,11 +43,11 @@ User.init(
             async beforeCreate(newUserData) {
                 newUserData.password = bcrypt.hash(newUserData.password, 8);
                 return newUserData;
-            },
-            async beforeUpdate(updatedUserData) {
-                updatedUserData.password = bcrypt.hash(updatedUserData.password, 8);
-                return updatedUserData;
-            }
+            } // ,
+            // async beforeUpdate(updatedUserData) {
+            //     updatedUserData.password = bcrypt.hash(updatedUserData.password, 8);
+            //     return updatedUserData;
+            // }
         }
     },
     {

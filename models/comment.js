@@ -1,4 +1,4 @@
-const { timeStamp } = require("console");
+// const { timeStamp } = require("console");
 const { Model, DataTypes } = require("sequelize");
 const sequelize = require("../config/connection");
 
